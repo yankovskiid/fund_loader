@@ -1,0 +1,10 @@
+fund_load_limits:
+  daily_limit: 5000.0
+  weekly_limit: 20000.0
+  daily_load_count_limit: 3
+
+special_sanctions:
+  prime_id:
+    max_amount: 9999.0
+    max_attempts_per_day: 1
+  monday_multiplier: 2
